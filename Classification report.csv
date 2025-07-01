@@ -1,0 +1,8 @@
+Classifiers,Accuracy,Precision,Recall,F1 Score
+,,,,
+KNN,73.4375,0.53,0.54,0.53
+Decision Tree,74.47916,0.54,0.65,0.59
+Random Forest,78.125,0.75,0.57,0.64
+Naïve Bayes ,70.833,0.7,0.53,0.6
+SVM ,72.39583,0.64,0.52,0.58
+Logistic Regression,73.9583,0.67,0.54,0.6
