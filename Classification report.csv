@@ -1,8 +1,13 @@
-Classifiers,Accuracy,Precision,Recall,F1 Score
-,,,,
-KNN,73.4375,0.53,0.54,0.53
-Decision Tree,74.47916,0.54,0.65,0.59
-Random Forest,78.125,0.75,0.57,0.64
-Naïve Bayes ,70.833,0.7,0.53,0.6
-SVM ,72.39583,0.64,0.52,0.58
-Logistic Regression,73.9583,0.67,0.54,0.6
+Classifiers,Accuracy,Precision,Recall,F1 Score,
+,,,,,
+KNN,73.4375,0.53,0.54,0.53,
+Decision Tree,74.47916,0.54,0.65,0.59,
+Random Forest,76.04,0.6,0.63,0.62,
+Naïve Bayes ,70.833,0.7,0.53,0.6,
+SVM ,78.64,0.69,0.58,0.63,
+Logistic Regression,73.9583,0.67,0.54,0.6,
+bagging DT,78.65,0,0,0,
+Bagging RF,80.21,0,0,0,
+ADA Boost,78.65,0.64,0.73,0.68,
+Gradient Boosting,74.48,0.58,0.63,0.61,
+XG Boost,75,0.6,0.62,0.61,
